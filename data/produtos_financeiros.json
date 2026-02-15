@@ -32,11 +32,11 @@
     "indicado_para": "Perfil moderado que busca diversificação"
   },
   {
-    "nome": "Fundo de Ações",
+    "nome": "Fundo Imoibiliário",
     "categoria": "fundo",
-    "risco": "alto",
-    "rentabilidade": "Variável",
-    "aporte_minimo": 100.00,
+    "risco": "baixo",
+    "rentabilidade": "O dividend Yeld varia de 6% a 12% ao ano",
+    "aporte_minimo": "Depende da cota, mas existem papéis de R$10.00",
     "indicado_para": "Perfil arrojado com foco no longo prazo"
   }
 ]
