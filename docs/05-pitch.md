@@ -1,29 +1,21 @@
 # Pitch (3 minutos)
-
-> [!TIP]
-> Você pode usar alguns slides pra apoiar no seu Pitch e mostrar sua solução na prática.
  
 ## Roteiro Sugerido
 
 ### 1. O Problema (30 seg)
 > Qual dor do cliente você resolve?
 
-[Sua descrição aqui]
+Tira as dúvidas comuns de quem está iniciando no mundo dos investimentos de acordo com sua movimentação e dados fornecidos.
 
 ### 2. A Solução (1 min)
 > Como seu agente resolve esse problema?
 
-[Sua descrição aqui]
+Traz de forma didática ensinamentos sobre investimentos, para resovler questões do dia a dia.
 
-### 3. Demonstração (1 min)
-> Mostre o agente funcionando (pode ser gravação de tela)
-
-[Descreva o que será mostrado]
-
-### 4. Diferencial e Impacto (30 seg)
+### 3. Diferencial e Impacto (30 seg)
 > Por que essa solução é inovadora e qual é o impacto dela na sociedade?
 
-[Sua descrição aqui]
+Diferente dos chatbots genéricos, o Guardião usa os seus dados como exemplo. Isso torna o aprendizado concreto. E o melhor, roda 100% local, sem custo e sem enviar seus dados para ninguém.
 
 ---
 
